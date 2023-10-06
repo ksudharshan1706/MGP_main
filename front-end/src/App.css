@@ -1,0 +1,12 @@
+.app{
+    /* width: 100vw;
+height: 200vh;
+flex-shrink: 0;
+    opacity: 0.4;
+background: #070707; */
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}
